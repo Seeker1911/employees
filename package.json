@@ -1,0 +1,23 @@
+{
+  "name": "employees",
+  "version": "1.0.0",
+  "description": "Prototypal Inheritance exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seeker1911/employees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seeker1911/employees/issues"
+  },
+  "homepage": "https://github.com/Seeker1911/employees#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.3"
+  }
+}
