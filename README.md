@@ -1,0 +1,2 @@
+# employees
+Prototypal Inheritance exercise. 
